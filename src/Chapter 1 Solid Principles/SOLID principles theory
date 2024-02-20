@@ -1,0 +1,14 @@
+Solid principles  -->
+
+S -> Single Responsibility Principle
+C -> Open/close Responsibility Principle
+L -> Liskov Substitution Principle
+I -> Interface Segmented Principle
+D -> Dependency Inversion Principle
+
+Single responsibility:
+A class should have single responsibility
+there should not be more than one reason to change the class
+
+Open/close responsibility Principle
+A class should be open for extension But close for modification
